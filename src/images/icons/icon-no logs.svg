@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="57" viewBox="0 0 61 57">
+  <g id="Group_83" data-name="Group 83" transform="translate(-488 -2764)">
+    <path id="Polygon_24" data-name="Polygon 24" d="M28.5,0,57,53H0Z" transform="translate(549 2821) rotate(180)" opacity="0.1"/>
+    <path id="Polygon_25" data-name="Polygon 25" d="M28.5,0,57,53H0Z" transform="translate(545 2817) rotate(180)" fill="#1e1e22" opacity="0.85"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="17" height="21" rx="2" transform="translate(508 2770)" fill="#8cedb5"/>
+    <path id="Icon_ionic-ios-close" data-name="Icon ionic-ios-close" d="M16.805,15.75l3.188-3.188a.747.747,0,1,0-1.056-1.056l-3.188,3.188-3.188-3.188A.747.747,0,1,0,11.5,12.562l3.188,3.188L11.5,18.938a.747.747,0,0,0,1.056,1.056l3.188-3.188,3.188,3.188a.747.747,0,0,0,1.056-1.056Z" transform="translate(500.948 2764.944)" fill="#262626" stroke="#262626" stroke-width="1.5"/>
+  </g>
+</svg>

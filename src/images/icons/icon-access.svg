@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="57" viewBox="0 0 61 57">
+  <g id="Group_78" data-name="Group 78" transform="translate(-556 -2764)">
+    <path id="Polygon_26" data-name="Polygon 26" d="M28.5,0,57,53H0Z" transform="translate(617 2821) rotate(180)" opacity="0.1"/>
+    <path id="Polygon_27" data-name="Polygon 27" d="M28.5,0,57,53H0Z" transform="translate(613 2817) rotate(180)" fill="#1e1e22" opacity="0.85"/>
+    <g id="Group_39" data-name="Group 39" transform="translate(2967.216 3952.322)">
+      <path id="Path_91" data-name="Path 91" d="M-2387.547-1178.787a8.488,8.488,0,0,0-2.431,5.954,8.488,8.488,0,0,0,2.431,5.953" transform="translate(-0.296 -0.916)" fill="none" stroke="#8cedb5" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_92" data-name="Path 92" d="M-2370.261-1166.879a8.486,8.486,0,0,0,2.432-5.953,8.486,8.486,0,0,0-2.432-5.954" transform="translate(-7.328 -0.916)" fill="none" stroke="#8cedb5" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_93" data-name="Path 93" d="M-2391.461-1182.322a12.178,12.178,0,0,0-3.517,8.573,12.174,12.174,0,0,0,3.517,8.572" transform="translate(1 0)" fill="none" stroke="#8cedb5" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_94" data-name="Path 94" d="M-2366.725-1165.177a12.178,12.178,0,0,0,3.517-8.572,12.179,12.179,0,0,0-3.517-8.573" transform="translate(-8.245 0)" fill="none" stroke="#8cedb5" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="4.225" cy="4.225" r="4.225" transform="translate(-2386.941 -1177.975)" fill="#8cedb5"/>
+    </g>
+  </g>
+</svg>
